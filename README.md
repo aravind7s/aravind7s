@@ -7,13 +7,6 @@ Outside of work, I spend my free time exploring personal projects — experiment
 
 ---
 
-### 🧰 Tools & Skills
-- **Design:** OrCAD, Allegro, Altium, KiCad  
-- **Analysis:** HyperLynx, LTspice  
-- **Programming:** Embedded C, Python, Verilog  
-
----
-
 ### 🚀 Currently Exploring
 - Building open hardware projects  
 - Experimenting with ESP32-based control and monitoring systems  
